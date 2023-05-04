@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77517879647",
+    "project_id": "upmedic-13e5a",
+    "storage_bucket": "upmedic-13e5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77517879647:android:59f022162a3fc8c1f29eea",
+        "android_client_info": {
+          "package_name": "com.example.up23"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77517879647-nb1qt1c52g9srmmgim7201mkj02fe8kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEVYX9yKVyUwNL-AFicZIkYj9Wcf5f2XA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77517879647-nb1qt1c52g9srmmgim7201mkj02fe8kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

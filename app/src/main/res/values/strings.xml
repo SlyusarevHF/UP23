@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UP23</string>
+    <string-array name="Pol">
+        <item>Мужской</item>
+        <item>Женский</item>
+    </string-array>
+</resources>
